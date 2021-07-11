@@ -42,7 +42,7 @@ chart="""
     }
   },
   series: [{
-    name: 'count',
+    name: 'Count',
     data: []
     }]
 }

@@ -1,6 +1,7 @@
 # IPL
 * An python-based data visualization and analysis application of IPL from 2008-2019. The following analysis are performed:
   * Number of matches in every season
+    * [Code](https://github.com/Subathra19/ipl/blob/main/code/web_app_1.py) 
   * Number of matches Played, wins And Winning Percentage 
   * Stadiums vs Matches
   * Most likely decision taken after toss
@@ -33,8 +34,6 @@
 * Run python codes to generate respective chart. 
 * Open http://127.0.0.1:8000/ in Your local browser.
 
-## Implementation:
-* Check out the complete implementation details on []()
 
 ## Data Sources
 * (https://www.kaggle.com)

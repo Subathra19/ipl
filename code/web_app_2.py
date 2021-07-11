@@ -58,11 +58,8 @@ chart="""
         enabled: false
     },
     series: [{
-        name: 'Year 1800',
-        data: [107, 31, 635, 203, 2]
-    }, {
-        name: 'Year 1900',
-        data: [133, 156, 947, 408, 6]
+        name: ' ',
+        data: [ ]
     }]
 }
 """

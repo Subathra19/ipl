@@ -18,14 +18,14 @@
 
 ## Installing Package
 * Open terminal and write the following to intall:
-  * Folium
-```
-    pip3 install folium
-```
+  * JustPy 
+    ```
+    pip3 install justpy
+    ```   
   * pandas
-```
+    ```
     pip3 install pandas
-```
+    ```   
 
 ## How to Run app:
 * Clone the repository to your local machine.

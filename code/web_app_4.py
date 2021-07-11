@@ -10,7 +10,7 @@ chart="""
     inverted: false
   },
   title: {
-    text: 'Matches In Every Season'
+    text: 'Most likely decision taken after toss'
   },
   subtitle: {
     text: ''

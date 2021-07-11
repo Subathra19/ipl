@@ -55,7 +55,7 @@
 4. Most likely decision taken after toss  
   * [Code](https://github.com/Subathra19/ipl/blob/main/code/web_app_4.py) 
   <p align="center">
-  <img width="600" height="400" src="https://github.com/Subathra19/ipl/blob/main/plots/decision-on-toss-winnning.png">
+  <img width="600" height="400" src="https://github.com/Subathra19/ipl/blob/main/plots/most-likely-taken-decisi.png">
   </p>
   
 5. Total Runs per Season
